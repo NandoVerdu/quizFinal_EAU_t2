@@ -28,7 +28,7 @@
                 scoreTemplateText: '%score / %total',
                 nameTemplateText:  '<span>Test: </span>%name',
                 skipStartButton: true,
-                numberOfQuestions: 8,
+                numberOfQuestions: 12,
                 randomSortQuestions: true,
                 randomSortAnswers: true,
                 preventUnanswered: true,
