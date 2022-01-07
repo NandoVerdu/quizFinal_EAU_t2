@@ -1,0 +1,162 @@
+---
+info:
+  name: Marca la resposta correcta
+  main: "<p><p>"
+  results: "<h5><h5><p><p>"
+  level1: Super bé
+  level2: Bé
+  level3: Millorant
+  level4: Necessites millorar
+  level5: Necessiter millorar
+questions:
+- q: Segons la Llei Orgànica de Protecció de Dades
+  a:
+  - option: Les empreses poden guardar dades de caràcter personal sempre que <br> no les divulguen sense el consentiment dels interessats
+    correct: true
+  - option: Les empreses no poden guardar mai dades de caràcter personal
+    correct: false
+  - option: Les empreses poden guardar dades de caràcter personal en cas <br> de que les persones a les qui se'ls ha solicitat han sigut prèviament informats
+    correct: false
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+- q: Selecciona l'element que no influeix en la comunicació duna empresa
+  a:
+  - option: La publicitat
+    correct: false
+  - option: Les xarxes socials
+    correct: false
+  - option: Els comentaris dels treballadors empleats a les xarxer socials
+    correct: true
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+- q: L'organigrama és
+  a:
+  - option: La representació de l'organització d'una empresa
+    correct: true
+  - option: Una gràfica que serveix per agilitzar la comunicació informal en l'empresa
+    correct: false
+  - option: Una representació complexa i difícil de comprendre de la jerarquia en l'empresa
+    correct: false
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+- q: L'organització informal serveix per a
+  a:
+  - option: Facilitar els torns i horaris de treballadors
+    correct: false
+  - option: Que els càrrecs directius puguen transmetre ordres d'una forma més fàcil, ràpida i sense formalitats
+    correct: false
+  - option: Que la informació dins una empresa es transmeta de forma espontània i més fluida
+    correct: true
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+- q: Són mitjans de comunicació externa
+  a:
+  - option: La intranet corporativa i les notes internes
+    correct: false
+  - option: El correu electrònic i el correu postal
+    correct: true
+  - option: La intranet corporativa i el xat
+    correct: false
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+- q: Formen un equip de treball 
+  a:
+  - option: Els dependents d'un comerç de roba
+    correct: false
+  - option: La tripulació d'un avió
+    correct: true
+  - option: L'alumnat d'una classe
+    correct: false
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+- q: Si et contraten al departament de staff, quines tasques faràs?
+  a:
+  - option: Relacionades amb les noves tecnologies informàtiques
+    correct: false
+  - option: Tasques relacionades amb les altes finances
+    correct: false
+  - option: Tasques d'assessor/a dels alts càrrecs directius
+    correct: true
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+- q: Indica quina de les següents afirmacions és correcta
+  a:
+  - option: L'emissió d'albarans correspon al departament de compres
+    correct: false
+  - option: La recepció de comandes correspon al departament de compres
+    correct: false
+  - option: La confecció de les ordres de reposició correspon al departament de magatzem
+    correct: true
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+- q: És objectiu d'un equip de treball
+  a:
+  - option: Aconseguir majors beneficis per a l'empresa
+    correct: false
+  - option: Aconseguir major nivell d'eficàcia
+    correct: true
+  - option: Realitzar les tasques en un menor temps 
+    correct:  false
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+- q: Assenyala la resposta correcta
+  a:
+  - option: La comunicació interna millora el clima laboral
+    correct: true
+  - option: Comunicació ascendent és la que es transmet de els càrrecs superiors als inferiors
+    correct: false
+  - option: La comunicació interna es produeix únicament entre treballadors d'un mateix nivell
+    correct: false
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+- q: La responsabilitat social corporativa
+  a:
+  - option: Únicament té sentit en empreses amb departaments de producció i fabricació
+    correct: false
+  - option: Pot ajudar a aconseguir majors beneficis econòmics
+    correct: false
+  - option: Suposa costos que redueixen el benefici econòmic, però compensa perquè <br> proporciona altres beneficis socials o mediambientals
+    correct: true
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+- q: La intranet es
+  a:
+  - option: Un mitjà de comunicació extern que l'empresa utilitza per a transmetre <br> informació i comunicar-se únicament amb  clients <br> i proveïdors
+    correct: false
+  - option: Un mitjà de comunicació extern d'accés públic que poden utilitzar <br> empreses i particulars, però mantès per la pròpia empresa
+    correct: false
+  - option: Una red de comunicació privada amb la finalitat de comunicació dins l'empresa
+    correct: true
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+- q: Davant una reclamació d'un client
+  a:
+  - option: Sempre li donarem la raó 
+    correct: false
+  - option: Explicarem i intentarem convencer-lo de manera amable de que no té la raó
+    correct: false
+  - option: No extraurem conclusions precipitades i tindrem en compte tota la informació abans de pendre una decisió
+    correct: true
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+- q: Les factures que hem de conservar per imperatiu legal i que ja no necessitem consultar les guardarme en
+  a:
+  - option: Una carpeta 
+    correct: false
+  - option: Un arxivador A-Z
+    correct: true 
+  - option: Una safata apilable
+    correct: false
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+- q: Si vols enviar un e-mail a més d'un client de forma oculta, la direcció de cada destinatari haurà d'introduir-la a
+  a:
+  - option: El camp CC
+    correct: false
+  - option: El camp CCO
+    correct: true
+  - option: El camp PARA
+    correct: false
+  correct: "<p>Correcte!<p>"
+  incorrect: "<p>Incorrecte!<p>"
+---
