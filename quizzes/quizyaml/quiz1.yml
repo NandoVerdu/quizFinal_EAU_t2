@@ -12,11 +12,11 @@ questions:
 - q: Segons la Llei Orgànica de Protecció de Dades
   a:
   - option: Les empreses poden guardar dades de caràcter personal sempre que <br> no les divulguen sense el consentiment dels interessats
-    correct: true
+    correct: false
   - option: Les empreses no poden guardar mai dades de caràcter personal
     correct: false
   - option: Les empreses poden guardar dades de caràcter personal en cas <br> de que les persones a les qui se'ls ha solicitat han sigut prèviament informats
-    correct: false
+    correct: true
   correct: "<p>Correcte!<p>"
   incorrect: "<p>Incorrecte!<p>"
 - q: Selecciona l'element que no influeix en la comunicació duna empresa
